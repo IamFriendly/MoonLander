@@ -1,0 +1,6 @@
+﻿  game.cpp
+c:\users\ryanr\onedrive\documents\visual studio 2015\projects\moonlander\moonlander\game.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ryanr\onedrive\documents\visual studio 2015\projects\moonlander\moonlander\game.cpp(66): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ryanr\onedrive\documents\visual studio 2015\projects\moonlander\moonlander\game.cpp(143): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Moonlander.vcxproj -> C:\Users\ryanr\onedrive\documents\visual studio 2015\Projects\Moonlander\Debug\Moonlander.exe
+  Moonlander.vcxproj -> C:\Users\ryanr\onedrive\documents\visual studio 2015\Projects\Moonlander\Debug\Moonlander.pdb (Partial PDB)
